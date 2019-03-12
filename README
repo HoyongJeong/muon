@@ -1,0 +1,13 @@
+1. Put this source directory somewhere.
+
+2. Make a new directory for build
+ ex) mkdir muon_build
+
+3. Go to there
+ ex) cd muon_build
+
+4. Excute 'cmake'
+ ex) cmake ../muon
+
+5. And do 'make'
+ ex) make
